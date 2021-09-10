@@ -1,0 +1,6 @@
+2021-08-15T12:30:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site1\wp-content\plugins\woo-variation-swatches\includes\tutorials.php on line 4
+
+2021-08-15T12:30:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site1\wp-content\plugins\ocean-extra\includes\menu-icons\includes\library\icon-selector\icon-selector.php on line 224
+
+2021-08-15T17:31:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\site1\wp-content\plugins\elementor\core\settings\page\model.php on line 7
+
